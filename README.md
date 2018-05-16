@@ -1,2 +1,4 @@
+
 # misesdeAPP
-App enables a mobile-friendly view of Misesde.org.
+Android App that enables a mobile-friendly view of http://www.Misesde.org.
+
