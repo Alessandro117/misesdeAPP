@@ -1,0 +1,18 @@
+<style type="text/css">
+	.posts-default li  { width: 205px; height: 225px; }
+	.posts-default img, .posts-default .entry-thumbnails-link { width: 195px; height: 110px; }
+	.posts-default .entry-meta { width: 195px; }
+	.posts-default .entry-thumbnails { width: 205px; height: 120px; }
+			.posts-quick .entry-thumbnails img { width: 115px; height: 115px; }
+		.posts-quick .entry-meta { width: 115px; }
+			.featured { height: 310px; }
+	.featured-article { width: 640px; height: 300px; }
+	.featured-article img { width: 640px; height: 300px; }
+	#controls { width: 610px; top: 135px; }
+	#controls .next { left: 610px; }
+	.featured-entry { height: 100px; top: -100px; }
+	.featured-slideshow-inner { height: 300px }
+		.featured-stories-summary  { margin-left: 51px; }
+	.single .post .entry-photo img, .single-post .entry-photo img  { width: 620px; height: 300px; }
+		.footer-sidebar  { width: 920px; }
+</style>
